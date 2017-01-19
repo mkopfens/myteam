@@ -12,8 +12,10 @@ body {
 h1 {
   font-weight: bold;
 }
-h1 {
+h2 {
   font-weight: bold;
+  color: red;
+  text-shadow: 1.5px 1.5px black;
 }
 #title {
   font-weight: bold;
